@@ -38,9 +38,15 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 5.For different input combinations generate the timing diagram.
 
+**TRUTHTABLE**
+
+![WhatsApp Image 2024-12-20 at 1 54 25 PM](https://github.com/user-attachments/assets/a32b1670-6899-4d3f-b67b-5b1a741e13fc)
+
+
 **PROGRAM**
 
 ![image](https://github.com/user-attachments/assets/7df0f0dd-1d0c-4c3d-ab3b-68f539b97ede)
+
 
 Developed by: M RESHIKA  RegisterNumber: 24011491
 
@@ -48,15 +54,9 @@ Developed by: M RESHIKA  RegisterNumber: 24011491
 ![image](https://github.com/user-attachments/assets/2dff000b-082c-45c6-9e63-b34bd66a35ce)
 
 
-**TIMING DIAGRAM FOR IP COUNTER**
+**TIMING DIAGRAM FOR UP COUNTER**
 
 ![image](https://github.com/user-attachments/assets/b83206ed-cdb7-4d30-a483-f315e3618ef4)
-
-
-**TRUTH TABLE**
-
-
-![WhatsApp Image 2024-12-20 at 1 54 25 PM](https://github.com/user-attachments/assets/a32b1670-6899-4d3f-b67b-5b1a741e13fc)
 
 
 **RESULTS**
